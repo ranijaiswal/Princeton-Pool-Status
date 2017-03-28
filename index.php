@@ -4,7 +4,7 @@
 <link href='//fonts.googleapis.com/css?family=Amiko' rel='stylesheet'>
 <style>
 body {
-	font-family: 'Amiko';
+	font-family: 'Ariel', 'Sans-serif', 'Amiko';
 }
 
 tr {
