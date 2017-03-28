@@ -35,7 +35,7 @@
 	<table style="width:100%">
 	  
 	<!--col widths-->
-	  <col>
+	  <col width="50">
 	  <col width="100">
 	  <col width="200">
 	  <col width="500">
