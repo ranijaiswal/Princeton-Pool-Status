@@ -1,18 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<link href='//fonts.googleapis.com/css?family=Amiko' rel='stylesheet'>
 <style>
-		tr {text-align:center;}
-	  #table-head {
-	    background-color: #ccc;
-	    height: 50px;
-	  }
-	  #milestone {
-	    text-align:left;
-	  }
-	  #even {background-color: #eee;}
-	</style>
-	
+body {
+	font-family: 'Amiko';
+}
+
+tr {
+	text-align:center;
+}
+
+#table-head {
+	background-color: #ccc;
+    height: 50px;
+}
+
+#milestone {
+	text-align:left;
+}
+
+#even {
+	background-color: #eee;
+}
+</style>
 
 <head>
 <title>PrincetonPool Status</title>
