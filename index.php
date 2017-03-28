@@ -38,7 +38,7 @@
 	  <col>
 	  <col width="100">
 	  <col width="200">
-	  <col>
+	  <col width="500">
 
 	<!---->
 
