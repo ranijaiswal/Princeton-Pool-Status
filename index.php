@@ -1,5 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
+
+<style>
+		tr {text-align:center;}
+	  #table-head {
+	    background-color: #ccc;
+	    height: 50px;
+	  }
+	  #milestone {
+	    text-align:left;
+	  }
+	  #even {background-color: #eee;}
+	</style>
+	
+
 <head>
 <title>PrincetonPool Status</title>
 </head>
@@ -18,18 +32,6 @@
 	
 	<!--Timeline Table-->
 	<h3>Timeline</h3>
-	
-	<style>
-		tr {text-align:center;}
-	  #table-head {
-	    background-color: #ccc;
-	    height: 50px;
-	  }
-	  #milestone {
-	    text-align:left;
-	  }
-	  #even {background-color: #eee;}
-	</style>
 
 	<div id = "table-tall">
 	<table style="width:100%">
