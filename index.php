@@ -52,7 +52,7 @@ tr {
 	  <col width="100">
 	  <col width="200">
 	  <col width="500">
-		<col width="500">
+		<col width="400">
 
 	<!---->
 
@@ -67,19 +67,22 @@ tr {
 	    <td>1</td>
 	    <td>3/19 - 3/25</td>
 	    <td>Spring Break</td>
-	    <td>Tutorials, division of labor, set up GitHub repository, get familiar with GitHub</td>
+	    <td>Tutorials, division of labor, set up Github repository, get familiar with Github</td>
+			<td>Went through tutorials, set up Github repo, practiced commands with Github</td>
 	  </tr>
 	  <tr id="even">
 	    <td>2</td>
 	    <td>3/26 - 4/1</td>
 	    <td>Assignment 5 due 3/31</td>
 	    <td>First TA meeting, continue with tutorials, decide specialization</td>
+			<td>Set up status and webapp site (both hosted with Heroku), continued with tutorials, minimal CAS login functionality, met with Jonathan</td>
 	  </tr>
 	  <tr>
 	    <td>3</td>
 	    <td>4/2 - 4/8</td>
 	    <td>-</td>
 	    <td>Very basic functionality for each component (i.e. backend server is running, data can be fetched from database and rendered on webpage)</td>
+			<td></td>
 
 	  </tr>
 	  <tr id="even">
@@ -87,36 +90,42 @@ tr {
 	    <td>4/9 - 4/15</td>
 	    <td>Project Prototype 4/16</td>
 	    <td>Working frontend (i.e. buttons and drop-down lists, basic layout of page), ability to make a request and have it show up on the page</td>
-	  </tr>
+			<td></td>
+		</tr>
 	  <tr>
 	    <td>5</td>
 	    <td>4/16 - 4/22</td>
 	    <td>-</td>
 	    <td>CAS login implementation</td>
+			<td></td>
 	  </tr>
 	  <tr id="even">
 	    <td>6</td>
 	    <td>4/23 - 4/29</td>
 	    <td>Alpha Test 4/28</td>
 	    <td>Implement notifications by email (and text); should be able to determine a preliminary measure of project success</td>
-	  </tr>
+			<td></td>
+		</tr>
 	  <tr>
 	    <td>7</td>
 	    <td>4/30 - 5/6</td>
 	    <td>Beta Test 5/5</td>
 	    <td>Have independents (users) try it and give feedback, fix corner cases</td>
+			<td></td>
 	  </tr>
 	  <tr id="even">
 	    <td>8</td>
 	    <td>5/7 - 5/13</td>
 	    <td>Demo Days 5/8 - 5/10</td>
 	    <td>Fix more corner cases that arise from demo day</td>
+			<td></td>
 	  </tr>
 	  <tr>
 	    <td>9</td>
 	    <td>5/14</td>
 	    <td>Final Project Due Midnight</td>
 	    <td>Submit</td>
+			<td></td>
 	  </tr>
 	</table>
 	</div>
