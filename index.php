@@ -120,11 +120,11 @@ tr {
 	</div>
 
 	<h3> Elevator Pitch </h3>
-	<p>Have you ever looked for a last-minute carpool to the airport? Have you ever deleted a listserv email that was looking for a carpool to the airport?
+	<p>Have you ever looked for a last-minute carpool to the airport? Do you get annoyed by listserv emails looking for carpools to the airport?
 	Did you know it can actually be cheaper to carpool to the airport than to take NJTransit? Are you an independent student interested in going grocery
-	shopping, but don't want to wait for the Weekend Shopper? PrincetonPool is a webapp that will search for carpools <strong><em>with other Princeton
-	students only</em></strong>. Just tell us <strong>where you want to go</strong>, <strong>when you want to go</strong>,
-	<strong>how many empty seats you have in your ride</strong>, and we'll figure out the rest!</p>
+	shopping, but don't want to wait for the Weekend Shopper? PrincetonPool is a webapp that will help you search for carpools <strong><em>with other
+	Princeton	students only</em></strong>. Just tell us <strong>where you want to go</strong>, <strong>when you want to go</strong>,
+	<strong>how many empty seats you have for your ride</strong>, and we'll pool you into a group!</p>
 	<h3> Demo Slides </h3>
 	<h3> Final Document </h3>
 </body>
