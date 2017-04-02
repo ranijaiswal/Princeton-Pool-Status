@@ -65,7 +65,7 @@ tr {
 	    <td>1</td>
 	    <td>3/19 - 3/25</td>
 	    <td>Spring Break</td>
-	    <td id="milestone">Tutorials, division of labor, set up GitHub repository, get familiar with GitHub</td>
+	    <td>Tutorials, division of labor, set up GitHub repository, get familiar with GitHub</td>
 	  </tr>
 	  <tr id="even">
 	    <td>2</td>
@@ -120,6 +120,11 @@ tr {
 	</div>
 
 	<h3> Elevator Pitch </h3>
+	<p>Have you ever looked for a last-minute carpool to the airport? Have you ever deleted a listserv email that was looking for a carpool to the airport?
+	Did you know it can actually be cheaper to carpool to the airport than to take NJTransit? Are you an independent student interested in going grocery
+	shopping, but don't want to wait for the Weekend Shopper? PrincetonPool is a webapp that will search for carpools <strong><em>with other Princeton
+	students only</em></strong>. Just tell us <strong>where you want to go</strong>, <strong>when you want to go</strong>,
+	<strong>how many empty seats you have in your ride</strong>, and we'll figure out the rest!</p>
 	<h3> Demo Slides </h3>
 	<h3> Final Document </h3>
 </body>
