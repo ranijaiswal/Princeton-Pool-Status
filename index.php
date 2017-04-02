@@ -61,7 +61,7 @@ tr {
 	    <th style = "width:50">Dates</th>
 	    <th>Deadlines</th>
 	    <th>Milestone(s)</th>
-			<th>Actual Updates</th>
+			<th>Updates</th>
 	  </tr>
 	  <tr>
 	    <td>1</td>
