@@ -40,13 +40,13 @@ tr {
 	<li> Alice Tang - xt6@princeton.edu </li>
 	</ul>
 	<h3> <a href="https://docs.google.com/document/d/19IrN09ag0GRdlq_4Jyv789RsXCkZxkTT3WL-biAkqLU/edit?usp=sharing">Design Document</a></h3>
-	
+
 	<!--Timeline Table-->
 	<h3>Timeline</h3>
 
 	<div id = "table-tall">
 	<table style="width:100%">
-	  
+
 	<!--col widths-->
 	  <col width="50">
 	  <col width="100">
@@ -57,7 +57,7 @@ tr {
 
 	  <tr id="table-head">
 	    <th>Week</th>
-	    <th style = "width:50">Dates</th> 
+	    <th style = "width:50">Dates</th>
 	    <th>Deadlines</th>
 	    <th>Milestone(s)</th>
 	  </tr>
@@ -65,7 +65,7 @@ tr {
 	    <td>1</td>
 	    <td>3/19 - 3/25</td>
 	    <td>Spring Break</td>
-	    <td>Tutorials, division of labor, set up GitHub repository, get familiar with GitHub</td>
+	    <td id="milestone">Tutorials, division of labor, set up GitHub repository, get familiar with GitHub</td>
 	  </tr>
 	  <tr id="even">
 	    <td>2</td>
@@ -78,7 +78,7 @@ tr {
 	    <td>4/2 - 4/8</td>
 	    <td>-</td>
 	    <td>Very basic functionality for each component (i.e. backend server is running, data can be fetched from database and rendered on webpage)</td>
-	    
+
 	  </tr>
 	  <tr id="even">
 	    <td>4</td>
