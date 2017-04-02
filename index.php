@@ -52,6 +52,7 @@ tr {
 	  <col width="100">
 	  <col width="200">
 	  <col width="500">
+		<col width="500">
 
 	<!---->
 
@@ -60,6 +61,7 @@ tr {
 	    <th style = "width:50">Dates</th>
 	    <th>Deadlines</th>
 	    <th>Milestone(s)</th>
+			<th>Actual Updates</th>
 	  </tr>
 	  <tr>
 	    <td>1</td>
