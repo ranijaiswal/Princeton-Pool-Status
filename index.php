@@ -82,7 +82,7 @@ tr {
 	    <td>4/2 - 4/8</td>
 	    <td>-</td>
 	    <td>Very basic functionality for each component (i.e. backend server is running, data can be fetched from database and rendered on webpage)</td>
-			<td></td>
+			<td>4/3: we discussed more user scenarios and sketched mockups of different pages (see <a href="https://drive.google.com/open?id=0BxY37nHyyhcjbk5Pd2RrNmlqUlk">1</a> and <a href="https://drive.google.com/open?id=0BxY37nHyyhcjWFNjdzk5bDU5Z3M">2</a>)</td>
 
 	  </tr>
 	  <tr id="even">
