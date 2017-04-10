@@ -29,7 +29,7 @@ tr {
 <title>PrincetonPool Status</title>
 </head>
 <body>
-	<h1> PrincetonPool </h1>
+	<h1> <a href="http://princeton-pool.herokuapp.com/">PrincetonPool </a></h1>
 	<h3> Project Manager: Jonathan Balkind </h3>
 	<h3> Project Leader: Annie Chen </h3>
 	<h3> Team: </h3>
