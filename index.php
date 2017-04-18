@@ -90,14 +90,14 @@ tr {
 	    <td>4/9 - 4/15</td>
 	    <td>Project Prototype 4/16</td>
 	    <td>Very basic functionality for each component (i.e. backend server is running, data can be fetched from database and rendered on webpage)</td>
-			<td></td>
+			<td>Rides can be created and show up in the Open Requests list for airport rides.</td>
 		</tr>
 	  <tr>
 	    <td>5</td>
 	    <td>4/16 - 4/22</td>
 	    <td>-</td>
 	    <td>CAS login implementation</td>
-			<td></td>
+			<td>User NetID is passed through CAS authentication. Email notifications about new ride creation implemented. App UI in process of standardization.</td>
 	  </tr>
 	  <tr id="even">
 	    <td>6</td>
