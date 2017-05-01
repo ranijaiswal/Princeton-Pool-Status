@@ -104,7 +104,7 @@ tr {
 	    <td>4/23 - 4/29</td>
 	    <td>Alpha Test 4/28</td>
 	    <td>Implement notifications by email (and text); should be able to determine a preliminary measure of project success</td>
-			<td></td>
+			<td>Email notifications implemented; airport, shopping, and other rides have separate open requests pages; invalid inputs to form handled; separate login and logout from CAS login logout implemented; your rides page and drop functionality implemented; UI fixes</td>
 		</tr>
 	  <tr>
 	    <td>7</td>
