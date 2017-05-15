@@ -34,10 +34,10 @@ tr {
 	<h3> Project Leader: Annie Chen </h3>
 	<h3> Team: </h3>
 	<ul>
-	<li> Annie Chen - anniec@princeton.edu </li>
-	<li> Rani Jaiswal - rjaiswal@princeton.edu  </li>
-	<li> Cindy Liu - cindyliu@princeton.edu </li>
-	<li> Alice Tang - xt6@princeton.edu </li>
+	<li> Annie Chen - anniec@ </li>
+	<li> Rani Jaiswal - rjaiswal@  </li>
+	<li> Cindy Liu - cindyliu@ </li>
+	<li> Alice Tang - xt6@ </li>
 	</ul>
 	<h3> <a href="https://drive.google.com/a/princeton.edu/file/d/0BxY37nHyyhcjVFRkQnJNT3FfVnc/view?usp=sharing">Design Document</a></h3>
 	
@@ -67,8 +67,8 @@ tr {
 	    <th>Week</th>
 	    <th style = "width:50">Dates</th>
 	    <th>Deadlines</th>
-	    <th>Milestone(s)</th>
-			<th>Updates</th>
+	    <th>What We Planned To Do</th>
+			<th>What We Actually Did</th>
 	  </tr>
 	  <tr>
 	    <td>1</td>
