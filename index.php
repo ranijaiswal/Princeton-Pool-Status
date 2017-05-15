@@ -89,7 +89,7 @@ tr {
 	    <td>4/2 - 4/8</td>
 	    <td>-</td>
 	    <td>Working and linked frontend (i.e. buttons and drop-down lists, basic layout of page), ability to make a request and have it show up on the page</td>
-			<td>4/3: we discussed more user scenarios and sketched mockups of different pages (see <a href="https://drive.google.com/open?id=0BxY37nHyyhcjbk5Pd2RrNmlqUlk">1</a> and <a href="https://drive.google.com/open?id=0BxY37nHyyhcjWFNjdzk5bDU5Z3M">2</a>); 4/6 Created mockups of example pages for UI</td>
+			<td>4/3: we discussed more user scenarios and sketched mockups of different pages (see <a href="https://drive.google.com/file/d/0BxY37nHyyhcjZDdOUF9pY3BXUUE/view?usp=sharing">1</a> and <a href="https://drive.google.com/file/d/0BxY37nHyyhcjN01xYVJkbXNCU3c/view?usp=sharing">2</a>); 4/6 Created mockups of example pages for UI</td>
 
 	  </tr>
 	  <tr id="even">
