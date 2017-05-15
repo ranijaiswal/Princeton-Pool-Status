@@ -4,7 +4,7 @@
 <link href='//fonts.googleapis.com/css?family=Amiko' rel='stylesheet'>
 <style>
 body {
-	font-family: 'Ariel', 'Sans-serif', 'Amiko';
+	font-family: 'Amiko', 'Ariel', 'Sans-serif';
 }
 
 tr {
@@ -47,7 +47,7 @@ tr {
 	Princeton students only</strong>. Just tell us <strong>where you want to go</strong>, <strong>when you want to go</strong>,
 	<strong>how many empty seats you have for your ride</strong>, and we'll pool you into a group!</p>
 	
-	<h3> <a href="https://drive.google.com/a/princeton.edu/file/d/0BxY37nHyyhcjVFRkQnJNT3FfVnc/view?usp=sharing">Design Document</a> &emsp; <a href ="https://drive.google.com/file/d/0BxY37nHyyhcjMGxPSHVJSURyX0k/view?usp=sharing">Demo Slides</a> &emsp; Tutorial &emsp; Product Guide &emsp; Final Report</h3>
+	<h3> <a href="https://drive.google.com/a/princeton.edu/file/d/0BxY37nHyyhcjVFRkQnJNT3FfVnc/view?usp=sharing">Design Document</a> &emsp; <a href ="https://drive.google.com/file/d/0BxY37nHyyhcjMGxPSHVJSURyX0k/view?usp=sharing">Demo Slides</a> &emsp; <a href ="https://drive.google.com/file/d/0BxPYRTIQTpf-RFJ0RHd3OG50OG8/view?usp=sharing">Tutorial</a> &emsp; <a href ="https://drive.google.com/file/d/0BxPYRTIQTpf-ZTJUSVMxbXdOS3M/view?usp=sharing">Product Guide</a> &emsp; <a href ="https://drive.google.com/file/d/0BxPYRTIQTpf-U19hdE84OWN5bjg/view?usp=sharing">Final Report</a></h3>
 	<!--Timeline Table-->
 	<h3>Milestones</h3>
 
