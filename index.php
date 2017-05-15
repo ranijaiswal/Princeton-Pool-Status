@@ -39,7 +39,7 @@ tr {
 	<li> Cindy Liu - cindyliu@princeton.edu </li>
 	<li> Alice Tang - xt6@princeton.edu </li>
 	</ul>
-	<h3> <a href="https://docs.google.com/document/d/19IrN09ag0GRdlq_4Jyv789RsXCkZxkTT3WL-biAkqLU/edit?usp=sharing">Design Document</a></h3>
+	<h3> <a href="https://drive.google.com/a/princeton.edu/file/d/0BxY37nHyyhcjVFRkQnJNT3FfVnc/view?usp=sharing">Design Document</a></h3>
 	
 	<h3> Elevator Pitch </h3>
 	<p>Have you ever looked for a last-minute carpool to the airport? Do you get annoyed by listserv emails looking for carpools to the airport?
