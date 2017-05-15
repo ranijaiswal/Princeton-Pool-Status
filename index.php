@@ -43,7 +43,7 @@ tr {
 	<h3> Elevator Pitch </h3>
 	<p>Have you ever looked for a last-minute carpool to the airport? Do you get annoyed by listserv emails looking for carpools to the airport?
 	Did you know it can actually be cheaper to carpool to the airport than to take NJTransit? Are you an independent student interested in going grocery
-	shopping, but don't want to wait for the Weekend Shopper? PrincetonPool is a webapp that will help you search for carpools <strong>with other
+	shopping, but don't want to wait for the Weekend Shopper? Princeton Go is a webapp that will help you search for carpools <strong>with other
 	Princeton students only</strong>. Just tell us <strong>where you want to go</strong>, <strong>when you want to go</strong>,
 	<strong>how many empty seats you have for your ride</strong>, and we'll pool you into a group!</p>
 	
