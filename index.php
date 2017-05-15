@@ -111,21 +111,21 @@ tr {
 	    <td>4/30 - 5/6</td>
 	    <td>Beta Test 5/5</td>
 	    <td>Have independents (users) try it and give feedback, fix corner cases</td>
-			<td></td>
+			<td>Name scraping from princeton.edu homepage and search bar (by destination) implemented</td>
 	  </tr>
 	  <tr id="even">
 	    <td>8</td>
 	    <td>5/7 - 5/13</td>
 	    <td>Demo Days 5/8 - 5/10</td>
 	    <td>Fix more corner cases that arise from demo day</td>
-			<td></td>
+			<td>More extensive user testing, fixed corner cases that arose from demo day and user testing, UI improvements (i.e. better compatibility with mobile)</td>
 	  </tr>
 	  <tr>
 	    <td>9</td>
 	    <td>5/14</td>
 	    <td>Final Project Due Midnight</td>
 	    <td>Submit</td>
-			<td></td>
+			<td>Check!</td>
 	  </tr>
 	</table>
 	</div>
